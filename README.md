@@ -1,6 +1,6 @@
 <h2>I'm Gaurav Raj.</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><b>Hacker, Programmer & FreeLancer</b></p>
+<p><b>Hacker, Programmer & FreeLancer</b></p><br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/thehackersbrain?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/thehackersbrain?label=Follow&style=social)
