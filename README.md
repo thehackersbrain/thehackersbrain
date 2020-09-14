@@ -14,12 +14,14 @@ const gauravraj = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "C", "Bash", "Java", "php"],
     askMeAbout: ["cybersecurity", "coding/programming", "web development", "software development"],
-    technologies: {
+    mobileTechnologies: {
         mobileApp: {
         	platform: ["Android", "IOS"],
         	frontEnd: ["Flutter"],
         	backEnd: ["Java" "Kotlin"]
         },
+    },
+    webTechnologies: {
         frontEnd: {
             js: ["Vue", "React"],
             css: ["materialize", "vuetify", "bootstrap"]
