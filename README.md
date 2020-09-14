@@ -47,6 +47,7 @@ const gauravraj = {
 };
 ```
 
+
 **CyberSecurity Stats** 
 
 ```text
@@ -54,7 +55,6 @@ const gauravraj = {
 👨‍💻 System         ███████████████████████░░   98%
 👨‍💻 Reversing      ███████████████░░░░░░░░░░   70% 
 👨‍💻 Scripting      █████████████████████░░░░   90%
-
 ```
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thehackersbrain&show_icons=true" alt="thehackersbrain" /> 
