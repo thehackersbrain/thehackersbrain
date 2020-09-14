@@ -30,7 +30,7 @@ const gauravraj = {
             js: ["node", "express", "SuiteScript"],
             python: ["flask", "django"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Apache2"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
