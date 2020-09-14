@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/thehackersbrain?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/thehackersbrain?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=thehackersbrain.thehackersbrain)
-![Website](https://thehackersbrain.pythonanywhere.com/)
+![](https://thehackersbrain.pythonanywhere.com/)
 
 ### <img src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif" width="50"> A little more about me...  
 
