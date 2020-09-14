@@ -9,7 +9,8 @@
 
 ### <img src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif" width="50"> A little more about me...  
 
-```const gauravraj = {
+```
+const gauravraj = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "C", "Bash", "Java", "php"],
     askMeAbout: ["cybersecurity", "coding/programming", "web development", "software development"],
