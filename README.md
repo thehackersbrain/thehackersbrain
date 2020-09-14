@@ -1,20 +1,62 @@
-### Hey there 👋
-<b> I am Gaurav Raj.</b> <br> Hacker, Programmer & FreeLancer.
+<h2>I'm Gaurav Raj.</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><b>Hacker, Programmer & FreeLancer</b></p>
 
-- [Read More](https://thehackersbrain.pythonanywhere.com/about)<br>
-- [Thehackersbrain](https://thehackersbrain.pythonanywhere.com/)<br>
-- [projects](https://github.com/thehackersbrain?tab=repositories)<br>
+![Twitter Follow](https://img.shields.io/twitter/follow/thehackersbrain?label=Follow)
+![GitHub followers](https://img.shields.io/github/followers/thehackersbrain?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=thehackersbrain.thehackersbrain)
+![Website](https://thehackersbrain.pythonanywhere.com/)
 
+### <img src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif" width="50"> A little more about me...  
 
-<!--
-**thehackersbrain/thehackersbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+```javascript
+const gauravraj = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "C", "Bash", "Java", "php"],
+    askMeAbout: ["cybersecurity", "coding/programming", "web development", "software development"],
+    technologies: {
+        mobileApp: {
+        	platform: ["Android", "IOS"]
+        	frontEnd: ["Flutter"]
+        	backEnd: ["Java" "Kotlin"]
+        }
+        frontEnd: {
+            js: ["Vue", "React"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask", "django"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    cybersecurity: {
+    	programming: {
+    		languages: ["python", "java", "shellscript", "batch", "php", ]
+    	},
+    	scripting: {
+    		languages: ["python", "shell", "batch"]
+    	}
+    }
+    cybersecurity: ["Currently doing bug bounty hunting", "playing CTFs", "writing writups"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-- 🔭 I’m currently working on Web Developing
-- 🌱 I’m currently learning CyberSecurity
-- 👯 I’m looking to collaborate on Hosting CTF Comptetions
-- 🤔 I’m looking for help with CyberSecurity
-- 💬 Ask me about anything related to CyberSecurity
-- 📫 How to reach me: [WebSite](https://thehackersbrain.pythonanywhere.com/)
-- ⚡ Quote: Enumeration is the Key :)
+**CyberSecurity Stats** 
+
+```text
+👨‍💻 WebApp         ███████████████████░░░░░░   85% 
+👨‍💻 System         ███████████████████████░░   98%
+👨‍💻 Reversing      ███████████████░░░░░░░░░░   70% 
+👨‍💻 Scripting      █████████████████████░░░░   90%
+
+```
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thehackersbrain&show_icons=true" alt="thehackersbrain" /> 
+
+</p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
