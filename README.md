@@ -1,5 +1,11 @@
-### Hi there 👋
-I am Gaurav Raj. <br> <b>Hacker, Programmer & FreeLancer<b>
+### Hey there 👋
+<b> I am Gaurav Raj.</b> <br> Hacker, Programmer & FreeLancer.
+<hr>
+More About Me
+[About Me](https://thehackersbrain.pythonanywhere.com/about)
+[Blog](https://thehackersbrain.pythonanywhere.com/)
+[Projects](https://github.com/thehackersbrain?tab=repositories)
+
 
 <!--
 **thehackersbrain/thehackersbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
