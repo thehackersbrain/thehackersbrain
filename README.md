@@ -9,17 +9,16 @@
 
 ### <img src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const gauravraj = {
+```const gauravraj = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "C", "Bash", "Java", "php"],
     askMeAbout: ["cybersecurity", "coding/programming", "web development", "software development"],
     technologies: {
         mobileApp: {
-        	platform: ["Android", "IOS"]
-        	frontEnd: ["Flutter"]
+        	platform: ["Android", "IOS"],
+        	frontEnd: ["Flutter"],
         	backEnd: ["Java" "Kotlin"]
-        }
+        },
         frontEnd: {
             js: ["Vue", "React"],
             css: ["materialize", "vuetify", "bootstrap"]
@@ -38,8 +37,8 @@ const gauravraj = {
     	},
     	scripting: {
     		languages: ["python", "shell", "batch"]
-    	}
-    }
+    	},
+    },
     cybersecurity: ["Currently doing bug bounty hunting", "playing CTFs", "writing writups"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
