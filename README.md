@@ -1,6 +1,6 @@
 ### Hey there 👋
 <b> I am Gaurav Raj.</b> <br> Hacker, Programmer & FreeLancer.
-<hr>
+
 More About Me<br>
 [About Me](https://thehackersbrain.pythonanywhere.com/about)<br>
 [Blog](https://thehackersbrain.pythonanywhere.com/)<br>
