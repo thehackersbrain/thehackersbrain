@@ -10,7 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```jsx
 const gauravraj = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "C#", "Java", "Python", "Ruby", "Perl", "Bash"],
