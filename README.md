@@ -1,7 +1,7 @@
 <h2>I'm Gaurav Raj.</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><b>Hacker, Programmer & FreeLancer</b></p>
-<p>My website <a href="https://thehackersbrain.pythonanywhere.com/">click here</a></p><br>
+<p>Website <a href="https://gauravraj.tech">click here</a></p><br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/thehackersbrain?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/thehackersbrain?label=Follow&style=social)
@@ -62,4 +62,3 @@ const gauravraj = {
 
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
