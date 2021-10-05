@@ -10,37 +10,37 @@
 
 ### <img src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif" width="50"> A little more about me...  
 
-```jsx
+```json
 const gauravraj = {
-    pronouns: "He" | "Him",
-    code: ["C", "C++", "C#", "Java", "Python", "Ruby", "Perl", "Bash"],
-    askMeAbout: ["CyberSecurity", "Hacking", "Coding/Programming", "Web Development", "Software Development"],
-    cybersecurity: {
-        programming: {
-            languages: ["C", "C++", "C#", "Python", "Java", "Ruby", ]
+    "pronouns": "He | Him",
+    "code": ["C", "C++", "C#", "Java", "Python", "Ruby", "Perl", "Bash"],
+    "askMeAbout": ["CyberSecurity", "Hacking", "Coding/Programming", "Web Development", "Software Development"],
+    "cybersecurity": {
+        "programming": {
+            "languages": ["C", "C++", "C#", "Python", "Java", "Ruby"]
         },
-        scripting: {
-            languages: ["ShellScript", "Batch", "Python"]
+        "scripting": {
+            "languages": ["ShellScript", "Batch", "Python"]
         },
     },
-    webTechnologies: {
-        frontEnd: {
-            js: ["Vue", "React"],
-            css: ["materialize", "vuetify", "bootstrap", "tailwind"]
+    "webTechnologies": {
+        "frontEnd": {
+            "js": ["Vue", "React"],
+            "css": ["materialize", "vuetify", "bootstrap", "tailwind"]
         },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask", "django"]
+        "backEnd": {
+            "js": ["node", "express"],
+            "python": ["flask", "django"]
         },
-        devOps: ["AWS", "Docker🐳", "Azure", "Nginx", "Apache2"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        "devOps": ["AWS", "Docker🐳", "Azure", "Nginx", "Apache2"],
+        "databases": ["mongo", "MySql", "sqlite"],
+        "misc": ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    mobileTechnologies: {
-        mobileApp: {
-            platform: ["Android", "IOS"],
-            frontEnd: ["Flutter"],
-            backEnd: ["Java" "Kotlin"]
+    "mobileTechnologies": {
+        "mobileApp": {
+            "platform": ["Android", "IOS"],
+            "frontEnd": ["Flutter"],
+            "backEnd": ["Java" "Kotlin"]
         },
     },    
 };
