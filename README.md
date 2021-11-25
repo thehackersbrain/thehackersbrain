@@ -37,7 +37,7 @@ Hi, I'm <strong>Gaurav Raj</strong>. I'm a Programmer, Web Developer (Backend Sp
 
 <h2 align="center">Github Stats Graph</h2>
 <table>
-  <tr align='center'><img alt="Github Graph" src="https://activity-graph.herokuapp.com/graph?username=Chayan-11&theme=gotham&area=true" /></tr>
+  <tr align='center'><img alt="Github Graph" src="https://activity-graph.herokuapp.com/graph?username=thehackersbrain&theme=gotham&area=true" /></tr>
 </table><br/><br/>
 
 <hr />
