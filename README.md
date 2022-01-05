@@ -6,7 +6,7 @@
 
 </br>
 
-![GitHub cover pic_profile](https://user-images.githubusercontent.com/76246106/137583904-bd37f12a-8778-49ea-b0b9-670bce545f90.png)
+![GitHub cover pic_profile](profile_banner.png)
 
  </table>
  
