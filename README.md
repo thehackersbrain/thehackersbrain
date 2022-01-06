@@ -31,7 +31,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-Hi, I'm <strong>Gaurav Raj</strong>. I'm a Programmer, Web Developer (Backend Specifically) and a CyberSecurity Student. Learning more and more everyday about new technologies and it's uses. I do have a <a href="https://gauravraj.tech" target="_blank">portfolio</a> and also love to write <a href="https://blog.gauravraj.tech/" target="_blank">blog</a> posts sometimes. you can take a look at them if you're interested. So go ahead and explore my github profile which is filled with crap ;). Some of them might be interesting for you I hope.
+Hi, I'm <strong>Gaurav Raj</strong>. I'm a Programmer, Web Developer (Backend Specifically) and a CyberSecurity Student. Learning more and more everyday about new technologies and it's uses. I do have a <a href="https://thehackersbrain.github.io/" target="_blank">portfolio</a> and also love to write <a href="https://thehackersbrain.github.io/blog/" target="_blank">blog</a> posts sometimes. you can take a look at them if you're interested. So go ahead and explore my github profile which is filled with crap ;). Some of them might be interesting for you I hope.
 </p>
 <hr />
 
