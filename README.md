@@ -20,8 +20,8 @@
 <a href="https://web.facebook.com/thehackersbrainblog/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/thehackersbrain/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/thehackersbrain"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/thehackersbrain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://blog.gauravraj.xyz/"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thehackersbrainn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://thehackersbrain.online/blog/"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCpGLOEm0RqivXv3pxNjneNQ"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
