@@ -32,13 +32,9 @@
 <h2 align="center">About me</h2>
 <p align="center">
 Hello! I'm a passionate Cyber Security Researcher and versatile Programmer who loves exploring the intersection of security and innovation. With expertise in languages like Python, JavaScript, Rust, Perl, C, C++, and Golang, I design and develop robust, scalable software solutions.
-
 Whether it's creating powerful CLI tools, dynamic desktop applications, intuitive mobile apps, or responsive web applications, I harness modern frameworks such as Flutter, ReactJS, NextJS, Node.js, and TypeScript to deliver exceptional user experiences.
-
 Beyond the realm of software, I have a deep fascination with electronics and hardware hacking. I enjoy delving into the intricacies of hardware to push technological boundaries and discover new possibilities.
-
 In the DevOps world, I'm adept at deploying and managing CI/CD pipelines, ensuring they are not only efficient but also secure. Additionally, I have expertise in cloud architecture deployment, setup, and security, enabling me to build and maintain resilient and scalable cloud-based systems.
-
 I'm always excited to collaborate on innovative projects and explore new ideas. Let's connect and create something extraordinary together!
 </p>
 <hr />
