@@ -1,12 +1,9 @@
-<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
-
 <table>
 	<tr>
 		 <td>
-
-</br>
-
 ![GitHub cover pic_profile](profile_banner.png)
+         </td>
+    </tr>
 
  </table>
  
