@@ -1,9 +1,8 @@
 <table>
 	<tr>
 		 <td>
+
 ![GitHub cover pic_profile](profile_banner.png)
-         </td>
-    </tr>
 
  </table>
  
