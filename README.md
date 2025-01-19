@@ -31,21 +31,13 @@
 
 <!--Trap--:)-->
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 align="center">About me</h2>
 <p align="center">
     I'm a Cyber Security Researcher and Developer with over a half decade (5+ years) of experience. Skilled in multiple programming languages like Python, Rust, JavaScript, C, C++, and more. My expertise extends to and beyond, DevOps, Reverse-Engineering, Development (Full Stack Software Developer), and more. Mostly involved in Bug-Hunting or FreeLance projects.
     <br/><br/>But at the core, I'm just a quick and passionate learner who likes to explore 😎.
 </p>
-<hr />
 
-<h2 align="center">Github Stats Graph</h2>
-<table>
-  <tr align='center'><img alt="Github Graph" src="https://activity-graph.herokuapp.com/graph?username=thehackersbrain&theme=gotham&area=true" /></tr>
-</table><br/><br/>
-
-<hr />
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <table align="center" width="100%">
   <tr>
