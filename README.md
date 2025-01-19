@@ -16,7 +16,7 @@
 
 #### <p align="center"> &nbsp; 👨‍🎓 Security Researcher &nbsp; | &nbsp; Full Stack Developer &nbsp; | &nbsp; FreeLancer ✈ &nbsp; </p>
 
-/<p align="center">
+<p align="center">
     Ore Wa Gaurav, Mirai no hakka da. Dattebayo! 😅
 </p>
 
@@ -36,8 +36,7 @@
 <h2 align="center">About me</h2>
 <p align="center">
     I'm a Cyber Security Researcher and Developer with over a half decade (5+ years) of experience. Skilled in multiple programming languages like Python, Rust, JavaScript, C, C++, and more. My expertise extends to and beyond, DevOps, Reverse-Engineering, Development (Full Stack Software Developer), and more. Mostly involved in Bug-Hunting or FreeLance projects.
-
-    But at the core, I'm just a quick and passionate learner who likes to explore 😎.
+    <br/>But at the core, I'm just a quick and passionate learner who likes to explore 😎.
 </p>
 <hr />
 
