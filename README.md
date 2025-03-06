@@ -2,7 +2,8 @@
 	<tr>
 		 <td>
 
-![GitHub cover pic_profile](profile_banner.png)
+<!-- ![GitHub cover pic_profile](profile_banner.png) -->
+![GitHub Cover](banner.png)
 
  </table>
  
