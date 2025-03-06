@@ -11,11 +11,7 @@
 
 ### <p align="center"> Hey there! I'm [Gaurav](https://octoprofile.vercel.app/user?id=thehackersbrain) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
 
-#### <p align="center"> &nbsp; 👨‍🎓 Security Researcher &nbsp; | &nbsp; Full Stack Developer &nbsp; | &nbsp; FreeLancer ✈ &nbsp; </p>
-
-<p align="center">
-    <code>Ore Wa Gaurav, Mirai no hakka da. Dattebayo! 😅</code>
-</p>
+`Ore Wa Gaurav, Mirai no hakka da. Dattebayo! 😅`
 
 <p align="center">
 <a href="https://web.facebook.com/thehackersbrainblog/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
