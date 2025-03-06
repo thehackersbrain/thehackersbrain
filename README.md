@@ -9,7 +9,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thehackersbrainn/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpGLOEm0RqivXv3pxNjneNQ)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+917488930330)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/thehackersbrain/)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://thehackersbrain.medium.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contact@thehackersbrain.online)
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
@@ -17,28 +17,11 @@
 
 </div>
 
-
-<!-- <p align="center"> -->
-<!-- </p> -->
-
-<!-- <p align="center"> -->
-<!-- <a href="https://web.facebook.com/thehackersbrainblog/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> -->
-<!-- <a href="https://www.instagram.com/thehackersbrain/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> -->
-<!-- <a href="https://twitter.com/thehackersbrain"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
-<!-- <a href="https://www.linkedin.com/in/thehackersbrainn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
-<!-- <a href="https://www.youtube.com/channel/UCpGLOEm0RqivXv3pxNjneNQ"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> -->
-<!-- </p> -->
-
 ----------------------------------------------
 
-
-
-<!--Trap--:)-->
-
-
 <p align="center">
-    I'm a Cyber Security Researcher and Developer with over a half decade (5+ years) of experience. Skilled in multiple programming languages like Python, Rust, JavaScript, C, C++, and more. My expertise extends to and beyond, DevOps, Reverse-Engineering, Development (Full Stack Software Developer), and more. Mostly involved in Bug-Hunting or FreeLance projects.
-    <br/><br/>But at the core, I'm just a quick and passionate learner who likes to explore 😎.<br/>
+    I'm a Security Researcher &amp; Software Engineer with over a half decade (5+ years) of experience. Skilled in multiple programming languages like Python, Rust, JavaScript, C, C++, and more. My expertise extends to and beyond, DevOps, Reverse-Engineering, Development (Full Stack Software Developer), and more. Mostly involved in Bug-Hunting or FreeLance projects.
+    <br/><br/>But at the core, I'm just a quick and passionate learner who likes to explore 😎.<br/><br/>
     <code>Ore Wa Gaurav, Mirai no hakka da. Dattebayo! 😅</code>
 </p>
 
