@@ -26,6 +26,7 @@
 
 - name: x86 Assembly
   logo: AssemblyScript
+  url: https://google.com/search?q=assembly+lang
   color: "#111111"
   projects:
     - url: https://github.com/thehackersbrain/gbootloader
