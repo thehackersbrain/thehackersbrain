@@ -19,10 +19,49 @@
     - url: https://github.com/thehackersbrain/hiddenpngpy
     - url: https://github.com/thehackersbrain/chat-room
     - url: https://github.com/thehackersbrain/networksniffer
+    - url: https://github.com/thehackersbrain/camphish
+    - url: https://github.com/thehackersbrain/rsa_decoder
+    - url: https://github.com/thehackersbrain/thephisher
     - url: https://github.com/thehackersbrain/port_scanner
     - url: https://github.com/thehackersbrain/linkparser
     - url: https://github.com/thehackersbrain/dirhunter
     - url: https://github.com/thehackersbrain/CVE-2021-41773
+    - url: https://github.com/thehackersbrain/maltego-transforms
+    - url: https://github.com/thehackersbrain/django_blog
+
+- name: ReactJS
+  logo: React
+  url: https://react.dev/
+  color: "#61DAFB"
+  projects:
+    - url: https://github.com/thehackersbrain/hookbank
+    - url: https://github.com/thehackersbrain/snapgram
+
+- name: NextJS
+  logo: Next.js
+  url: https://nextjs.org/
+  color: "#000000"
+  projects:
+    - url: https://github.com/thehackersbrain/brainwave
+    - url: https://github.com/thehackersbrain/minimal-portfolio
+    - url: https://github.com/thehackersbrain/carepulse
+
+- name: Rust
+  logo: Rust
+  url: https://google.com/search?q=assembly+lang
+  color: "#000000"
+  projects:
+    - url: https://github.com/thehackersbrain/chip8
+    - url: https://github.com/thehackersbrain/hiddenpng
+    - url: https://github.com/thehackersbrain/passcraft
+    - url: https://github.com/thehackersbrain/ctftimers
+
+- name: Flutter
+  logo: Flutter
+  url: https://flutter.dev/
+  color: "#02569B"
+  projects:
+    - url: https://github.com/thehackersbrain/flutternews
 
 - name: x86 Assembly
   logo: AssemblyScript
@@ -36,58 +75,16 @@
   url: https://go.dev/
   color: "#00ADD8"
   projects:
-    - url: https://github.com/ashleymavericks/rocket-server
+    - url: https://github.com/thehackersbrain/netscan
     - url: https://github.com/ashleymavericks/titan-shell
     - url: https://github.com/ashleymavericks/dataload-db
 
-- name: Flask
-  logo: Flask
-  url: https://flask.palletsprojects.com/en/2.1.x/
-  color: "#000000"
+- name: C++
+  logo: C++
+  url: https://google.com/search?q=cpp+lang
+  color: "#00599C"
   projects:
-    - url: https://github.com/ashleymavericks/bitgrit-personality-api
-    - url: https://github.com/ashleymavericks/tradingview-discord-middleware
-
-- name: FastAPI
-  logo: FastAPI
-  url: https://fastapi.tiangolo.com/
-  color: "#009688"
-  projects:
-    - url: https://github.com/ashleymavericks/browser-hot-reloading
-    - url: https://github.com/ashleymavericks/strategical-trading
-      wip: true
-
-- name: Django
-  logo: Django
-  url: https://www.djangoproject.com/
-  color: "#092E20"
-  projects:
-    - url: https://github.com/ashleymavericks/todo-list-battle
-      wip: true
-
-- name: TypeScript
-  logo: TypeScript
-  url: https://www.typescriptlang.org/
-  color: "#3178C6"
-  projects:
-    - url: https://github.com/ashleymavericks/nextjs-starter-template
-    - url: https://github.com/ashleymavericks/anuragsingh.dev
-    - url: https://github.com/ashleymavericks/supabase-uptime-monitor
-
-- name: JavaScript
-  logo: JavaScript
-  url: https://javascript.info/
-  color: "#F7DF1E"
-  projects:
-    - url: https://github.com/ashleymavericks/unshorts
-
-- name: Node.js
-  logo: Node.js
-  url: https://nodejs.org/en/
-  color: "#339933"
-  projects:
-    - url: https://github.com/ashleymavericks/speaking-geo-assistant-backend
-    - url: https://github.com/ashleymavericks/dietary-care
+    - url: https://github.com/thehackersbrain/hiddenwave
 
 - name: Problem solving
   logo: LeetCode
@@ -102,16 +99,25 @@
     - url: https://github.com/ashleymavericks/code.golf
     - url: https://github.com/ashleymavericks/deep-ml
 
-- name: Spark AR
-  logo: Spark AR
-  url: https://sparkar.facebook.com/ar-studio/
-  color: "#FF5C83"
-  projects:
-    - url: https://github.com/ashleymavericks/AR-PiZero
-
 - name: Shell
   logo: GNU Bash
   url: https://www.gnu.org/
   color: "#4EAA25"
   projects:
-    - url: https://github.com/ashleymavericks/dotfiles-public
+    - url: https://github.com/thehackersbrain/saycheese_v2.0
+
+- name: LaTeX
+  logo: LaTeX
+  url: https://www.latex-project.org/
+  color: "#008080"
+  projects:
+    - url: https://github.com/thehackersbrain/resume
+    - url: https://github.com/thehackersbrain/fiction-book-template
+
+- name: Docker
+  logo: Docker
+  url: https://docker.com
+  color: "#2496ED"
+  projects:
+    - url: https://github.com/thehackersbrain/kalivnc
+    - url: https://github.com/thehackersbrain/archvnc
