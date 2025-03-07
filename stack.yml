@@ -1,15 +1,34 @@
+- name: C
+  logo: C
+  url: https://en.cppreference.com/w/c/language
+  color: "#00a3e9"
+  projects:
+    - url: https://github.com/thehackersbrain/cpuinfo-os
+    - url: https://github.com/thehackersbrain/gkernel
+    - url: https://github.com/thehackersbrain/simple_web_server
+    - url: https://github.com/thehackersbrain/curl_in_c
+    - url: https://github.com/thehackersbrain/text-editor
+    - url: https://github.com/thehackersbrain/passgen
+
 - name: Python
   logo: Python
   url: https://www.python.org/
   color: "#3776AB"
   projects:
-    - url: https://github.com/ashleymavericks/notion-portfolio-tracker
-    - url: https://github.com/ashleymavericks/notion-interactive-brokers
-    - url: https://github.com/ashleymavericks/notion-habit-tracker
-    - url: https://github.com/hackclubnmit/certificate-generator
-    - url: https://github.com/ashleymavericks/todo-cli
-    - url: https://github.com/ashleymavericks/option-chain-notifier
-    - url: https://github.com/ashleymavericks/learnmate-backend
+    - url: https://github.com/thehackersbrain/webhawk
+    - url: https://github.com/thehackersbrain/hiddenpngpy
+    - url: https://github.com/thehackersbrain/chat-room
+    - url: https://github.com/thehackersbrain/networksniffer
+    - url: https://github.com/thehackersbrain/port_scanner
+    - url: https://github.com/thehackersbrain/linkparser
+    - url: https://github.com/thehackersbrain/dirhunter
+    - url: https://github.com/thehackersbrain/CVE-2021-41773
+
+- name: x86 Assembly
+  logo: Assembly
+  color: "#111111"
+  projects:
+    - url: https://github.com/thehackersbrain/gbootloader
 
 - name: Go
   logo: Go
