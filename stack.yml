@@ -25,7 +25,7 @@
     - url: https://github.com/thehackersbrain/CVE-2021-41773
 
 - name: x86 Assembly
-  logo: Assembly
+  logo: AssemblyScript
   color: "#111111"
   projects:
     - url: https://github.com/thehackersbrain/gbootloader
