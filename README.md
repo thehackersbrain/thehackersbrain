@@ -33,13 +33,13 @@
       <table>
         <tr>
           <td align="center">
-            <a href="https://github.com/SurPathHub">
-              <img src="https://avatars3.githubusercontent.com/u/75564428?s=150&v=4" />
+            <a href="https://github.com/cybercraftlabs">
+              <img src="https://avatars.githubusercontent.com/u/145713714?s=200&v=4" />
             </a>
           </td>
           <td align="center">
-            <a href="https://github.com/EddieHubCommunity">
-              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            <a href="https://github.com/cybercraftlabs/vigarch-os">
+              <img src="https://raw.githubusercontent.com/cybercraftlabs/vigarch-site/refs/heads/main/public/images/systemimg/3rd.jpg" />
             </a>
           </td>
         </tr>
@@ -77,5 +77,3 @@
 | [![LaTeX](https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF)](https://www.latex-project.org/) | [![resume](https://img.shields.io/static/v1?label=&message=resume&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/thehackersbrain/resume) [![fiction-book-template](https://img.shields.io/static/v1?label=&message=fiction-book-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/thehackersbrain/fiction-book-template) |
 | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF)](https://docker.com) | [![kalivnc](https://img.shields.io/static/v1?label=&message=kalivnc&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/thehackersbrain/kalivnc) [![archvnc](https://img.shields.io/static/v1?label=&message=archvnc&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/thehackersbrain/archvnc) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
-
-### <p align="center"> Hey there! I'm [Gaurav](https://octoprofile.vercel.app/user?id=thehackersbrain) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
