@@ -39,7 +39,7 @@
           </td>
           <td align="center">
             <a href="https://github.com/cybercraftlabs/vigarch-os">
-              <img src="https://raw.githubusercontent.com/cybercraftlabs/vigarch-site/refs/heads/main/public/images/systemimg/3rd.jpg" />
+              <img src="https://archlinux.org/static/logos/apple-touch-icon-144x144.38cf584757c3.png" />
             </a>
           </td>
         </tr>
