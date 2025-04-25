@@ -113,6 +113,7 @@
   projects:
     - url: https://github.com/thehackersbrain/resume
     - url: https://github.com/thehackersbrain/fiction-book-template
+    - url: https://github.com/thehackersbrain/tech-book-template
 
 - name: Docker
   logo: Docker
