@@ -39,7 +39,7 @@
           </td>
           <td align="center">
             <a href="https://github.com/berserkarch">
-              <img src="https://gitlab.com/berserkarch/berserk-assets/-/raw/main/images/dr-logo-general.png" />
+                 <img src="https://gitlab.com/uploads/-/system/group/avatar/110036842/dr-logo-general-1.png" />
             </a>
           </td>
         </tr>
