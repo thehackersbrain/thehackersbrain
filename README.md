@@ -38,8 +38,8 @@
             </a>
           </td>
           <td align="center">
-            <a href="https://github.com/cybercraftlabs/vigarch-os">
-              <img src="https://archlinux.org/static/logos/apple-touch-icon-144x144.38cf584757c3.png" />
+            <a href="https://github.com/berserkarch">
+              <img src="https://gitlab.com/berserkarch/berserk-assets/-/raw/main/images/dr-logo-general.png" />
             </a>
           </td>
         </tr>
