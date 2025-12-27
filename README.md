@@ -21,8 +21,7 @@
 ---
 
 <p align="center">
-    I'm a Red Team OP &amp; Software Engineer with over a half decade (6+ years) of experience. Skilled in multiple programming languages like Python, Rust, JavaScript, C, C++, and more. My expertise extends to and beyond, DevOps, Reverse-Engineering, Development (Full Stack Software Developer), and more. Mostly involved in Bug-Hunting or FreeLance projects.
-    <br/><br/>But at the core, I'm just a quick and passionate learner who likes to explore 😎.<br/><br/>
+    Offensive Security Researcher & Software Engineer with 8+ years of open-source experience. Specialized in low-level systems programming (C/ASM/Rust), Linux internals, kernel development, and red team operations. Strong crossover between kernel engineering, cloud infrastructure, and full-stack development.<br/><br/>
 </p>
 
 <hr/>
