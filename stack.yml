@@ -51,7 +51,9 @@
   url: https://google.com/search?q=assembly+lang
   color: "#000000"
   projects:
+    - url: https://github.com/thehackersbrain/berserker
     - url: https://github.com/thehackersbrain/chip8
+    - url: https://github.com/thehackersbrain/hiddenwave-rs
     - url: https://github.com/thehackersbrain/hiddenpng
     - url: https://github.com/thehackersbrain/passcraft
     - url: https://github.com/thehackersbrain/ctftimers
@@ -75,6 +77,8 @@
   url: https://go.dev/
   color: "#00ADD8"
   projects:
+    - url: https://github.com/thehackersbrain/berserk
+    - url: https://github.com/berserkarch/falconia
     - url: https://github.com/thehackersbrain/netscan
     - url: https://github.com/ashleymavericks/titan-shell
     - url: https://github.com/ashleymavericks/dataload-db
@@ -91,13 +95,8 @@
   url: https://hackattic.com/u/ashleymavericks
   color: "#FFA116"
   projects:
-    - url: https://github.com/ashleymavericks/leetcoding
-    - url: https://github.com/ashleymavericks/hackerrank
-    - url: https://github.com/ashleymavericks/hackattic
-    - url: https://github.com/ashleymavericks/kata-log
-    - url: https://github.com/ashleymavericks/sadservers
-    - url: https://github.com/ashleymavericks/code.golf
-    - url: https://github.com/ashleymavericks/deep-ml
+    - url: https://github.com/thehackersbrain/leetcoding
+    - url: https://github.com/thehackersbrain/hackerrank
 
 - name: Shell
   logo: GNU Bash
@@ -120,5 +119,6 @@
   url: https://docker.com
   color: "#2496ED"
   projects:
+    - url: https://github.com/berserkarch/berserk-docker
     - url: https://github.com/thehackersbrain/kalivnc
     - url: https://github.com/thehackersbrain/archvnc
