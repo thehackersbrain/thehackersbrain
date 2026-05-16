@@ -45,7 +45,7 @@
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=thehackersbrain&count_private=true&theme=tokyonight&show_icons=true" />
+      <img width="120%" src="profiles/stats.svg" />
     </td>
   </tr>
   <tr>
