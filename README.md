@@ -4,24 +4,20 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/thehackersbrainblog/)
+[![Berserk Arch](https://img.shields.io/badge/Berserk%20Arch-282a36?style=for-the-badge&logo=arch-linux&logoColor=blue)](https://berserkarch.org)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thehackersbrain/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/thehackersbrain)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thehackersbrainn/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpGLOEm0RqivXv3pxNjneNQ)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+917488930330)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://thehackersbrain.medium.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contact@thehackersbrain.dev)
-[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 
 </div>
 
 ---
 
 <p align="center">
-    Offensive Security Researcher & Software Engineer with 8+ years of open-source experience. Specialized in low-level systems programming (C/ASM/Rust), Linux internals, kernel development, and red team operations. Strong crossover between kernel engineering, cloud infrastructure, and full-stack development.<br/><br/>
+    Offensive Security Researcher & Software Engineer. Specialized in low-level systems programming (C/ASM/Rust), Linux internals, kernel development, and red team operations. Strong crossover between kernel engineering, cloud infrastructure, and full-stack development.<br/><br/>
 </p>
 
 <hr/>
