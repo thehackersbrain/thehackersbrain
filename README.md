@@ -45,7 +45,7 @@
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="profiles/stats.svg" />
+      <img width="120%" src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/stats.svg" />
     </td>
   </tr>
   <tr>
