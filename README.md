@@ -50,7 +50,7 @@
   </tr>
   <tr>
           <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehackersbrain&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+            <img src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/top-langs.svg">
           </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehackersbrain&theme=tokyonight">
