@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gaurav Raj's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 262, Total Commits  (last year) : 1628, Total PRs: 12, Total Issues: 4, Contributed to (last year): 27</desc>
+        <desc id="descId">Total Stars Earned: 262, Total Commits  (last year) : 1629, Total PRs: 12, Total Issues: 4, Contributed to (last year): 27</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 109.99861207884129;
+        stroke-dashoffset: 109.99734131511629;
       }
     }
   
