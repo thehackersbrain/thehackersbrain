@@ -10,7 +10,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thehackersbrainn/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpGLOEm0RqivXv3pxNjneNQ)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://thehackersbrain.medium.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contact@thehackersbrain.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gaurav@thehackersbrain.dev)
 
 </div>
 
@@ -25,20 +25,20 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <table>
-        <tr>
-          <td align="center">
-            <a href="https://github.com/cybercraftlabs">
-              <img src="https://avatars.githubusercontent.com/u/145713714?s=200&v=4" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://github.com/berserkarch">
-                 <img src="https://gitlab.com/uploads/-/system/group/avatar/110036842/dr-logo-general-1.png" />
-            </a>
-          </td>
-        </tr>
-      </table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/cybercraftlabs">
+        <img src="https://avatars.githubusercontent.com/u/145713714?s=200&v=4" width="180" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/berserkarch">
+        <img src="https://gitlab.com/uploads/-/system/group/avatar/110036842/dr-logo-general-1.png" width="180" />
+      </a>
+    </td>
+  </tr>
+</table>
     </td>
     <td align="center">
       <img width="120%" src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/stats.svg" />
