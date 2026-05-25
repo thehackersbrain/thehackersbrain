@@ -182,7 +182,7 @@
           y="0"
           width="10.19"
           height="8"
-          fill="#4F5D95"
+          fill="#384d54"
         />
       
       
@@ -224,9 +224,9 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
+      <circle cx="5" cy="6" r="5" fill="#384d54" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 0.08%
+        Dockerfile 0.08%
       </text>
     </g>
   </g></g>
