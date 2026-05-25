@@ -22,7 +22,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           plugin_languages: yes
-          plugin_languages_only: C, Python, C++, Rust, Assembly, Go
+          plugin_languages_ignored: html, css, javascript, typescript, shell, makefile, dockerfile, astro, scss, mdx, cmake, m4, roff, dart, php, ruby, java, tex
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
           filename: profile/metrics.svg
