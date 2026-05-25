@@ -182,7 +182,7 @@
           y="0"
           width="10.1"
           height="8"
-          fill="#44a51c"
+          fill="#0298c3"
         />
       
       
@@ -224,9 +224,9 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#44a51c" />
+      <circle cx="5" cy="6" r="5" fill="#0298c3" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        QML 0.04%
+        Perl 0.04%
       </text>
     </g>
   </g></g>
