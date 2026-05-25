@@ -29,12 +29,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/cybercraftlabs">
-        <img src="https://avatars.githubusercontent.com/u/145713714?s=200&v=4" width="180" />
+        <img src="https://avatars.githubusercontent.com/u/145713714?s=200&v=4" width="130" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/berserkarch">
-        <img src="https://gitlab.com/uploads/-/system/group/avatar/110036842/dr-logo-general-1.png" width="180" />
+        <img src="https://gitlab.com/uploads/-/system/group/avatar/110036842/dr-logo-general-1.png" width="130" />
       </a>
     </td>
   </tr>
