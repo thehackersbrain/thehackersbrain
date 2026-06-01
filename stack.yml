@@ -79,9 +79,8 @@
   projects:
     - url: https://github.com/thehackersbrain/berserk
     - url: https://github.com/berserkarch/falconia
+    - url: https://github.com/thehackersbrain/peekr
     - url: https://github.com/thehackersbrain/netscan
-    - url: https://github.com/ashleymavericks/titan-shell
-    - url: https://github.com/ashleymavericks/dataload-db
 
 - name: C++
   logo: C++
