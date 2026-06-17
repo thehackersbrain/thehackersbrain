@@ -54,6 +54,18 @@
   </tr>
 </table>
 
+---
+
+## 📄 Writings
+
+**[Certificate of Compromise](https://github.com/thehackersbrain/certificate-of-compromise)**
+
+SoK paper on offensive operations against Active Directory Certificate Services - ESC1-18, THEFT1-5, PERSIST/DPERSIST.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20731506.svg)](https://doi.org/10.5281/zenodo.20731506)
+
+---
+
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
