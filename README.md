@@ -62,7 +62,7 @@
   <tr>
     <td align="center">
       <a href="https://doi.org/10.5281/zenodo.20732733">
-        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20732733.svg" />
+        <img src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/zenodo.20732733.svg" />
       </a>
         <p><b><a href="https://github.com/thehackersbrain/certificate-of-compromise">Certificate of Compromise</a></b></p>
         <p>SoK paper on offensive operations against Active Directory Certificate Services - ESC1-18, THEFT1-5, PERSIST/DPERSIST.</p>
