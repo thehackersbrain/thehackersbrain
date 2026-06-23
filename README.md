@@ -69,10 +69,10 @@
     </td>
     <td align="center">
       <a href="https://www.amazon.com/dp/B0GX2XW8M7">
-        <img src="https://gitlab.com/uploads/-/system/group/avatar/110036842/dr-logo-general-1.png" width="130" />
+        <img src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/cover.png" width="250" />
       </a>
         <p><b>Forged Trust: Offensive Operations against ADCS</b></p>
-        <p>The definitive offensive reference for ADCS. Forged Trust documents the complete ADCS attack taxonomy from first principles: ESC1 through ESC18, THEFT1 through THEFT5, PERSIST1 through PERSIST3, and DPERSIST1 through DPERSIST3.</p>
+        <p>The definitive offensive reference for ADCS. Forged Trust documents the complete ADCS attack taxonomy from first principles: ESC1 - ESC18, THEFT1 - THEFT5, PERSIST1 - PERSIST3, and DPERSIST1 - DPERSIST3.</p>
         <p>Every technique is covered end to end - the misconfiguration root cause, prerequisites, exploitation, and detection artifacts - alongside the KB5014754 enforcement landscape.</p>
     </td>
   </tr>
