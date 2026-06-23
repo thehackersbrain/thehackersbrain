@@ -73,7 +73,7 @@
       </a>
         <p><b>Forged Trust: Offensive Operations against ADCS</b></p>
         <p>The definitive offensive reference for ADCS. Forged Trust documents the complete ADCS attack taxonomy from first principles: ESC1 - ESC18, THEFT1 - THEFT5, PERSIST1 - PERSIST3, and DPERSIST1 - DPERSIST3.</p>
-        <p>Every technique is covered end to end - the misconfiguration root cause, prerequisites, exploitation, and detection artifacts - alongside the KB5014754 enforcement landscape.</p>
+        <p>Every technique is covered end to end - the misconfigurations root cause, prerequisites, exploitation, and detection artifacts - alongside the KB5014754 enforcement landscape.</p>
     </td>
   </tr>
 </table>
