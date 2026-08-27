@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community
           filename: profile/metrics.svg
 
       - name: Generate stats card
