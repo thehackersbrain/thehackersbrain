@@ -11,6 +11,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpGLOEm0RqivXv3pxNjneNQ)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://thehackersbrain.medium.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gaurav@thehackersbrain.dev)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J81GPBOX)
 
 </div>
 
