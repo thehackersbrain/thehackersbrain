@@ -17,6 +17,8 @@
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J81GPBOX)
+
 <p align="center">
     Offensive Security Researcher & Software Engineer. Specialized in low-level systems programming (C/ASM/Rust), Linux internals, kernel development, and red team operations. Strong crossover between kernel engineering, cloud infrastructure, and full-stack development.<br/><br/>
 </p>
