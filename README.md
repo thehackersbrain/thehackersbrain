@@ -41,16 +41,14 @@
 </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/stats.svg" />
+      <img width="120%" src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/metrics.svg" />
     </td>
   </tr>
   <tr>
           <td align="center">
-            <img src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/metrics.svg">
+            <img src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/top-langs.svg">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehackersbrain&theme=tokyonight">
           </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehackersbrain&theme=tokyonight">
-    </td>
   </tr>
 </table>
 
