@@ -1,6 +1,4 @@
-<!-- ![GitHub cover pic_profile](profile_banner.png) -->
-
-![Github Cover](https://raw.githubusercontent.com/thehackersbrain/thehackersbrain/refs/heads/master/banner.png)
+![GitHub cover pic_profile](./profile_banner.png)
 
 <div align="center">
 
